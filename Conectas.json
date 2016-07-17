@@ -1,0 +1,77 @@
+{
+  "descripcion": {
+    "corta": "Conectas es un espacio de coworking para que profesionales independientes, emprendedores y trabajadores de empresas, puedan reunirse y trabajar en un ambiente abierto, colaborativo y con excelente conectividad.",
+    "larga": "Conectas es un espacio de coworking para que profesionales independientes, emprendedores y trabajadores de empresas, puedan reunirse y trabajar en un ambiente abierto, colaborativo y con excelente conectividad."
+  },
+  "direccion": {
+    "calle": "santa beatriz",
+    "ciudad": "santiago",
+    "comuna": "providencia",
+    "geo": {
+      "lat": -33.4267933,
+      "lng": -70.6178326
+    },
+    "numero": "91",
+    "pais": "chile"
+  },
+  "horarios": {
+    "domingo": {
+      "abierto": false,
+      "apertura": "",
+      "cierre": ""
+    },
+    "jueves": {
+      "abierto": true,
+      "apertura": "8:00",
+      "cierre": "20:00"
+    },
+    "lunes": {
+      "abierto": true,
+      "apertura": "8:00",
+      "cierre": "20:00"
+    },
+    "martes": {
+      "abierto": true,
+      "apertura": "8:00",
+      "cierre": "20:00"
+    },
+    "miercoles": {
+      "abierto": true,
+      "apertura": "8:00",
+      "cierre": "20:00"
+    },
+    "sabado": {
+      "abierto": true,
+      "apertura": "9:00",
+      "cierre": "13:00"
+    },
+    "viernes": {
+      "abierto": true,
+      "apertura": "8:00",
+      "cierre": "20:00"
+    }
+  },
+  "nombre": "Conectas",
+  "pais": "CL",
+  "precios": {
+    "equipos": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5+": 0
+    },
+    "moneda": "CLP",
+    "promedio": 136851
+  },
+  "servicios": {
+    "24_7": false,
+    "cafeteria": true,
+    "espacios_publicos": true,
+    "mentorias": false,
+    "salas_de_reuniones": true,
+    "wifi": true
+  },
+  "telefono": "+56225031826",
+  "url": "http://www.conectas.cl/"
+}

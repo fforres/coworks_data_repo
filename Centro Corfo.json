@@ -1,0 +1,79 @@
+{
+  "descripcion": {
+    "corta": "Ponemos a tu disposición cómodas y modernas instalaciones que permiten realizar un trabajo individual y grupal, con acceso a Internet y colecciones especializadas que marcan tendencia en el ámbito de los negocios, la industria y la innovación, además de una agradable cafetería.",
+    "larga": "Tenemos a tu disposición cómodas y modernas instalaciones que permiten realizar un trabajo individual y grupal, con acceso a Internet y colecciones especializadas que marcan tendencia en el ámbito de los negocios, la industria y la innovación, además de una agradable cafetería."
+  },
+  "direccion": {
+    "calle": "moneda",
+    "ciudad": "santiago",
+    "comuna": "santiago",
+    "geo": {
+      "lat": -33.4418073,
+      "lng": -70.64942270000002
+    },
+    "lat": 37.4224504,
+    "lng": -122.0840859,
+    "numero": "912",
+    "pais": "chile"
+  },
+  "horarios": {
+    "domingo": {
+      "abierto": true,
+      "apertura": "",
+      "cierre": ""
+    },
+    "jueves": {
+      "abierto": false,
+      "apertura": "9:00",
+      "cierre": "17:00"
+    },
+    "lunes": {
+      "abierto": false,
+      "apertura": "9:00",
+      "cierre": "17:00"
+    },
+    "martes": {
+      "abierto": false,
+      "apertura": "9:00",
+      "cierre": "17:00"
+    },
+    "miercoles": {
+      "abierto": false,
+      "apertura": "9:00",
+      "cierre": "17:00"
+    },
+    "sabado": {
+      "abierto": true,
+      "apertura": "",
+      "cierre": ""
+    },
+    "viernes": {
+      "abierto": false,
+      "apertura": "9:00",
+      "cierre": "06:00"
+    }
+  },
+  "nombre": "Centro Corfo",
+  "pais": "CL",
+  "precios": {
+    "equipos": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5+": 0
+    },
+    "moneda": "CLP",
+    "promedio": 0
+  },
+  "servicios": {
+    "24_7": false,
+    "cafeteria": true,
+    "espacios_publicos": true,
+    "mentorias": true,
+    "salas_de_reuniones": true,
+    "wifi": true
+  },
+  "telefono": "+56226318200",
+  "url": "http://www.corfo.cl/centro-colaborativo/acerca-del-centro-colaborativo"
+}

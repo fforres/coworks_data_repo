@@ -1,0 +1,77 @@
+{
+  "descripcion": {
+    "corta": "Coworkinglaofi, dispone de amplios lugares de trabajo, sector de descanso y sala de reunion bien equipada",
+    "larga": " La Ofi, permite adaptar tu lugar de trabajo según tus necesidades en cuanto al tiempo que pasaras en la oficina. También te permitirá crear redes profesionales con los mismos usuarios de este coworking, con esto esperamos que nuestros clientes tengan todo el apoyo que necesitan para llevar a cabo su proyecto, trabajo o emprendimiento"
+  },
+  "direccion": {
+    "calle": "seminario",
+    "ciudad": "santiago",
+    "comuna": "santiago",
+    "geo": {
+      "lat": -33.441609,
+      "lng": -70.6297092
+    },
+    "numero": "140",
+    "pais": "chile"
+  },
+  "horarios": {
+    "domingo": {
+      "abierto": false,
+      "apertura": "",
+      "cierre": ""
+    },
+    "jueves": {
+      "abierto": true,
+      "apertura": "9:00",
+      "cierre": "19:00"
+    },
+    "lunes": {
+      "abierto": true,
+      "apertura": "9:00",
+      "cierre": "19:00"
+    },
+    "martes": {
+      "abierto": true,
+      "apertura": "9:00",
+      "cierre": "19:00"
+    },
+    "miercoles": {
+      "abierto": true,
+      "apertura": "9:00",
+      "cierre": "19:00"
+    },
+    "sabado": {
+      "abierto": false,
+      "apertura": "",
+      "cierre": ""
+    },
+    "viernes": {
+      "abierto": true,
+      "apertura": "9:00",
+      "cierre": "19:00"
+    }
+  },
+  "nombre": "La Ofi",
+  "precios": {
+    "equipos": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5+": 0
+    },
+    "moneda": "CLP",
+    "promedio": 310000
+  },
+  "servicios": {
+    "24_7": false,
+    "cafeteria": true,
+    "espacios_publicos": true,
+    "mentorias": false,
+    "salas_de_reuniones": true,
+    "wifi": true
+  },
+  "telefono": "+56229854768",
+  "url": "http://www.coworkinglaofi.cl/",
+  "pais": "CL"
+}

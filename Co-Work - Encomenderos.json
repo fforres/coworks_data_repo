@@ -1,0 +1,77 @@
+{
+  "descripcion": {
+    "corta": "Acelera tu negocio trabajando en un espacio inspirador en una comunidad activa y colaborativa.",
+    "larga": "En Co-Work creemos que la colaboración es la base del éxito de los ecosistemas de emprendimiento. Buscamos proyectos y personas de alto potencial abiertos a colaborar."
+  },
+  "direccion": {
+    "calle": "encomenderos",
+    "ciudad": "santiago",
+    "comuna": "las condes",
+    "geo": {
+      "lat": -33.4161051,
+      "lng": -70.6037051
+    },
+    "numero": "253",
+    "pais": "chile"
+  },
+  "horarios": {
+    "domingo": {
+      "abierto": true,
+      "apertura": "0:00",
+      "cierre": "23:59"
+    },
+    "jueves": {
+      "abierto": true,
+      "apertura": "0:00",
+      "cierre": "23:59"
+    },
+    "lunes": {
+      "abierto": true,
+      "apertura": "0:00",
+      "cierre": "23:59"
+    },
+    "martes": {
+      "abierto": true,
+      "apertura": "0:00",
+      "cierre": "23:59"
+    },
+    "miercoles": {
+      "abierto": true,
+      "apertura": "0:00",
+      "cierre": "23:59"
+    },
+    "sabado": {
+      "abierto": true,
+      "apertura": "0:00",
+      "cierre": "23:59"
+    },
+    "viernes": {
+      "abierto": true,
+      "apertura": "0:00",
+      "cierre": "23:59"
+    }
+  },
+  "nombre": "Co-Work - Encomenderos",
+  "pais": "CL",
+  "precios": {
+    "equipos": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5+": 0
+    },
+    "moneda": "CLP",
+    "promedio": 200000
+  },
+  "servicios": {
+    "24_7": true,
+    "cafeteria": true,
+    "espacios_publicos": true,
+    "mentorias": true,
+    "salas_de_reuniones": true,
+    "wifi": true
+  },
+  "telefono": "+56985135860",
+  "url": "http://www.coworklatam.com/"
+}
